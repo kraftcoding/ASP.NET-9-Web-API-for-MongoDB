@@ -1,4 +1,4 @@
-# ASP.NET Web API for MongoDB v1.x
+# ASP.NET 9 Web API for MongoDB
 
 This document contains the technical details of the solution that will show you how to build a web API using ASP.Net Core (.Net8) that can perform CRUD (Create, Read, Update and Delete) operations on a MongoDB NoSQL database. To ensure security, we will protect the API using JWT (JSON web tokens) authentication. In addition, we will demonstrate how to store user credentials in a MongoDB database by using Asp.NetCore Authentication and Identity.
 
